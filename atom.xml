@@ -4,7 +4,7 @@
   <title><![CDATA[Pieces of Ephemera]]></title>
   <link href="http://danieltiger.github.io/photos/atom.xml" rel="self"/>
   <link href="http://danieltiger.github.io/photos/"/>
-  <updated>2014-03-22T13:41:40-07:00</updated>
+  <updated>2014-03-22T13:44:54-07:00</updated>
   <id>http://danieltiger.github.io/photos/</id>
   <author>
     <name><![CDATA[Arik Devens]]></name>
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Paris, France]]></title>
-    <link href="http://danieltiger.github.io/photos/photos/2014/03/22/dee-1/"/>
-    <updated>2014-03-22T13:31:04-07:00</updated>
-    <id>http://danieltiger.github.io/photos/photos/2014/03/22/dee-1</id>
+    <link href="http://danieltiger.github.io/photos/photos/2010/01/05/dee-1/"/>
+    <updated>2010-01-05T19:58:05-08:00</updated>
+    <id>http://danieltiger.github.io/photos/photos/2010/01/05/dee-1</id>
     <content type="html"><![CDATA[<p style="text-align:center;"> <img src="http://danieltiger.github.io/photos/images/photos/1.jpg" width="600" height="400"></p>
 ]]></content>
   </entry>
