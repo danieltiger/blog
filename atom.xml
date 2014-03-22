@@ -4,7 +4,7 @@
   <title><![CDATA[Pieces of Ephemera]]></title>
   <link href="http://danieltiger.github.io/photos/atom.xml" rel="self"/>
   <link href="http://danieltiger.github.io/photos/"/>
-  <updated>2014-03-22T13:33:33-07:00</updated>
+  <updated>2014-03-22T13:33:59-07:00</updated>
   <id>http://danieltiger.github.io/photos/</id>
   <author>
     <name><![CDATA[Arik Devens]]></name>
@@ -18,7 +18,7 @@
     <link href="http://danieltiger.github.io/photos/photos/2014/03/22/dee-1/"/>
     <updated>2014-03-22T13:31:04-07:00</updated>
     <id>http://danieltiger.github.io/photos/photos/2014/03/22/dee-1</id>
-    <content type="html"><![CDATA[<p><img class="{{ root_url" src="}}/images/photos/1.jpg"></p>
+    <content type="html"><![CDATA[<p><img src="http://danieltiger.github.io/photos/images/photos/1.jpg"></p>
 ]]></content>
   </entry>
   
