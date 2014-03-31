@@ -1,40 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Pieces of Ephemera]]></title>
+  <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://danieltiger.github.io/photos/atom.xml" rel="self"/>
   <link href="http://danieltiger.github.io/photos/"/>
-  <updated>2014-03-31T18:10:13+00:00</updated>
+  <updated>2014-03-31T18:13:03+00:00</updated>
   <id>http://danieltiger.github.io/photos/</id>
   <author>
-    <name><![CDATA[Arik Devens]]></name>
+    <name><![CDATA[Your Name]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
   
   <entry>
-    <title type="html"><![CDATA[Reykjavik, Iceland]]></title>
-    <link href="http://danieltiger.github.io/photos/photos/2014/03/29/reykjavik/"/>
-    <updated>2014-03-29T17:01:55+00:00</updated>
-    <id>http://danieltiger.github.io/photos/photos/2014/03/29/reykjavik</id>
-    <content type="html"><![CDATA[<p><img src="http://danieltiger.github.io/photos/images/photos/03-29-001.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-002.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-003.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-009.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-007.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-008.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-004.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-005.jpg" width="325" height="150">
-<img src="http://danieltiger.github.io/photos/images/photos/03-29-006.jpg" width="325" height="150"></p>
-]]></content>
-  </entry>
-  
-  <entry>
     <title type="html"><![CDATA[Paris, France]]></title>
-    <link href="http://danieltiger.github.io/photos/photos/2010/01/06/dee-1/"/>
+    <link href="http://danieltiger.github.io/photos/blog/2010/01/06/dee-1/"/>
     <updated>2010-01-06T03:58:05+00:00</updated>
-    <id>http://danieltiger.github.io/photos/photos/2010/01/06/dee-1</id>
+    <id>http://danieltiger.github.io/photos/blog/2010/01/06/dee-1</id>
     <content type="html"><![CDATA[<p style="text-align:center;"> <img src="http://danieltiger.github.io/photos/images/photos/1.jpg" width="600" height="400"></p>
 ]]></content>
   </entry>
