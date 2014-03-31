@@ -4,7 +4,7 @@
   <title><![CDATA[Pieces of Ephemera]]></title>
   <link href="http://danieltiger.github.io/photos/atom.xml" rel="self"/>
   <link href="http://danieltiger.github.io/photos/"/>
-  <updated>2014-03-31T18:29:23+00:00</updated>
+  <updated>2014-03-31T18:29:41+00:00</updated>
   <id>http://danieltiger.github.io/photos/</id>
   <author>
     <name><![CDATA[Arik Devens]]></name>
@@ -18,7 +18,7 @@
     <link href="http://danieltiger.github.io/photos/blog/2014/03/29/reykjavik/"/>
     <updated>2014-03-29T18:20:54+00:00</updated>
     <id>http://danieltiger.github.io/photos/blog/2014/03/29/reykjavik</id>
-    <content type="html"><![CDATA[<p>Error processing input, expected syntax: {% img [class name(s)] [http[s]:/]/path/to/image [width [height]] [title text | &ldquo;title text&rdquo; [&ldquo;alt text&rdquo;]] %}</p>
+    <content type="html"><![CDATA[<p><img src="http://danieltiger.github.io/photos/03-29-001.jpg" width="325" height="150"></p>
 ]]></content>
   </entry>
   
