@@ -2,22 +2,30 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://danieltiger.github.io/photos/blog/2014/03/31/1/</loc>
-        <lastmod>2014-03-31T18:20:52+00:00</lastmod>
+        <lastmod>2014-03-31T18:23:09+00:00</lastmod>
     </url>
     <url>
         <loc>http://danieltiger.github.io/photos/blog/2014/03/31/2/</loc>
-        <lastmod>2014-03-31T18:20:54+00:00</lastmod>
+        <lastmod>2014-03-31T18:23:09+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://danieltiger.github.io/photos/archives/</loc>
+        <lastmod>2014-03-31T18:23:09+00:00</lastmod>
     </url>
     <url>
         <loc>http://danieltiger.github.io/photos/blog/archives/</loc>
-        <lastmod>2014-03-31T18:20:54+00:00</lastmod>
+        <lastmod>2014-03-31T18:23:09+00:00</lastmod>
+    </url>
+    <url>
+        <loc>http://danieltiger.github.io/photos/blog/</loc>
+        <lastmod>2014-03-31T18:23:09+00:00</lastmod>
     </url>
     <url>
         <loc>http://danieltiger.github.io/photos/</loc>
-        <lastmod>2014-03-31T18:20:54+00:00</lastmod>
+        <lastmod>2014-03-31T18:23:09+00:00</lastmod>
     </url>
     <url>
         <loc>http://danieltiger.github.io/photos/robots.txt</loc>
-        <lastmod>2014-03-31T18:12:19+00:00</lastmod>
+        <lastmod>2014-03-31T18:23:09+00:00</lastmod>
     </url>
 </urlset>
